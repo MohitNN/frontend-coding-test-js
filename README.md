@@ -1,6 +1,6 @@
 # Frontend Coding Challenge
 
-Clone this repo, run `npm install` and start the project using `npm run dev`.
+Clone this repo, run `npm install` and start the project using `npm run dev` and for unit test `npm run test:unit`.
 The instructions for completing the task can be found in the site that will launch.
 
 ## Additional Hints
@@ -8,3 +8,4 @@ The instructions for completing the task can be found in the site that will laun
 ### Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+

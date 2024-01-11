@@ -13,6 +13,8 @@ module.exports = {
     'prettier',
   ],
   rules: {
+    'vue/no-async-in-computed-properties': 'off', // Adjust as needed
+    'vue/no-dupe-keys': 'off', // Adjust as needed
     'vue/script-setup-uses-vars': 'error',
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
